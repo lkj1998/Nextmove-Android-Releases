@@ -1,12 +1,12 @@
 {
   "packageName": "im.nextmove.app",
-  "versionCode": 1794168233,
-  "versionName": "2.3.1.1794168233",
-  "apkUrl": "https://lkj1998.github.io/Nextmove-Android-Releases/candidates/nextmove-1794168233-b973e375c735.apk",
+  "versionCode": 1794169583,
+  "versionName": "2.3.1.1794169583",
+  "apkUrl": "https://lkj1998.github.io/Nextmove-Android-Releases/candidates/nextmove-1794169583-ad9901137e9f.apk",
   "size": 41886844,
-  "sha256": "b973e375c73544682453f9fdd694f95607a2f0d7495f6f256d848c88da54c5df",
-  "publishedAt": "2026-11-08T20:13:58.543Z",
-  "commit": "d7386e3f07b628dadd2deb40c5f8d0f04575448e",
+  "sha256": "ad9901137e9fc953e62914245c57729a3a26f326dbb7a031ffdf4031e945f321",
+  "publishedAt": "2026-11-08T20:36:29.595Z",
+  "commit": "da2ba6b3268254c990d9a66929482c724db7fe6b",
   "channel": "candidate",
   "uiMode": "bundled"
 }
