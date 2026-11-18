@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "apkSha256": "ee8e58ff14f330a3cd67a071fe4a909aed577af605cd56d63855b23fb2d59272",
+  "apkBytes": 45669423,
+  "versionCode": 1795004053,
+  "buildCommit": "ab183073f47b3d29aba73bd58d7919103bf8ed18",
+  "sourceTree": "7f9376295afc1fd3a8d09a068d0ad69d2cd1a2e9",
+  "canonicalSourceCommit": "98922bfa7e5586f844ba35a17ea2d40b66aa6fa6",
+  "canonicalSourceRepository": "https://github.com/lkj1998/Nextmove-App",
+  "canonicalSourceTreeMatchesBuildCommit": true
+}
